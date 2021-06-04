@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867184569800",
+    "project_id": "pushnotif-rn",
+    "storage_bucket": "pushnotif-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867184569800:android:a3b16edb9b0489744a64fd",
+        "android_client_info": {
+          "package_name": "com.adminmeniu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867184569800-7m0h3jkfofht3kfc1lg09khb6sa4anjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8TdRHTvk6Fz5zTtYMxVZBqjUvS6dNuPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867184569800-7m0h3jkfofht3kfc1lg09khb6sa4anjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
